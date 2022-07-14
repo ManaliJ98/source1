@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<EnvironmentVariables>
+  <variable Name="MMTPPlusURL" Datatype="String">
+    <Value>https://uat-online.pnbmetlife.com/meratermplanplus/</Value>
+  </variable>
+  <variable Name="WaitTime" Datatype="String">
+    <Value>100</Value>
+  </variable>
+  <variable Name="ReportPath" Datatype="String">
+    <Value>C:\\QualitiaProjects\\Reports</Value>
+  </variable>
+  <variable Name="PDFComapreCodePath" Datatype="String">
+    <Value>D:\\QualitiaProjects\\SupportingFiles\\PDFtoExcel.bat</Value>
+  </variable>
+  <variable Name="BatchFileLogPath" Datatype="String">
+    <Value>D:\\QualitiaProjects\\SupportingFiles\\BatchFileLogs.txt</Value>
+  </variable>
+  <variable Name="ebranchURL" Datatype="String">
+    <Value>https://uat-ebranchnxt.pnbmetlife.com/ebranch-nxt/</Value>
+  </variable>
+  <variable Name="Email_ID" Datatype="String">
+    <Value>smruti.jadhav@zensoftservices.com</Value>
+  </variable>
+  <variable Name="Email_Pwd" Datatype="String">
+    <Value>LxvILY3SAr6+2AfZnT6MJQ==þNjAyZjViZWE3ZDg0NGJmNGJjZTA2ODBkNjllYTIyYWE=</Value>
+  </variable>
+  <variable Name="pwd" Datatype="String">
+    <Value>Zbq6qKK97Qh7aQN/12=</Value>
+  </variable>
+  <variable Name="OTP_WAIT_TIME" Datatype="String">
+    <Value>5</Value>
+  </variable>
+  <variable Name="Distributor_ID" Datatype="String">
+    <Value>11111114</Value>
+  </variable>
+  <variable Name="MobileNumber" Datatype="String">
+    <Value>7276674891</Value>
+  </variable>
+  <variable Name="EmailOTP_Yes/No" Datatype="String">
+    <Value>No</Value>
+  </variable>
+  <variable Name="PolicyBazaarURL" Datatype="String">
+    <Value>https://termqa.policybazaar.com</Value>
+  </variable>
+  <variable Name="PB_PDFComapreCodePath" Datatype="String">
+    <Value>D:\QualitiaProjects\SupportingFiles\PolicyBazaarPDFCalcComparison.bat</Value>
+  </variable>
+  <variable Name="CovidPDFComparePath" Datatype="String">
+    <Value>D:\\QualitiaProjects\\SupportingFiles\\CovidPDFExtraction.bat</Value>
+  </variable>
+  <variable Name="DownloadedReports" Datatype="String">
+    <Value>D:\\QualitiaProjects\\DownloadedReports</Value>
+  </variable>
+  <variable Name="PB_SJB URL" Datatype="String">
+    <Value>https://termnewqa.policybazaar.com/vueprequotes/?isSJB=true</Value>
+  </variable>
+  <variable Name="MMTPURL" Datatype="String">
+    <Value>https://uat-online.pnbmetlife.com/meratermplan/</Value>
+  </variable>
+  <variable Name="PB_Investment_URL" Datatype="String">
+    <Value>http://investmentnewqa.policybazaar.com/</Value>
+  </variable>
+</EnvironmentVariables>
